@@ -6,6 +6,10 @@ jogado em **português (BR)** ou em **inglês** (escolha ao ligar).
 
 Hack feita por **Repliroid do Futuro (Gabriel Calmon)**.
 
+![Tela de título](images/titulo.png) ![Seleção de personagem](images/selecao_personagem.png)
+![Gameplay](images/gameplay_1.png) ![Gameplay](images/gameplay_2.png)
+![Tela de pausa](images/pausa.png) ![Modo Versus](images/versus.png)
+
 ## Download
 
 - [Mega Man 7 EX Edition.bps](https://github.com/VrepliroidV/Megaman7-EX-Edition/raw/main/Mega%20Man%207%20EX%20Edition.bps) (recomendado, 410 KB)
