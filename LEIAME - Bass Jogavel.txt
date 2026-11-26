@@ -1,0 +1,859 @@
+Mega Man 7 PT-BR - Bass Jogável
+================================
+Aplicar em: Mega Man 7 (USA) original, 2 MB, sem header, CRC32 2D947536.
+A ROM fica com 6 MB depois do patch, com o jogo em português ou em inglês (escolha ao ligar).
+Use sempre a ROM original sem modificações, não uma que já recebeu uma versão anterior do patch.
+CRC32 da ROM depois do patch: F1D65064.
+
+O que muda:
+- Escolha de idioma: ao ligar o jogo, antes de tudo, vem a tela SELECT LANGUAGE / ESCOLHA O
+  IDIOMA com ENGLISH e PORTUGUÊS (BR): o direcional troca a opção, START, A ou B confirmam e a
+  tela escurece. Em inglês, todos os textos das duas campanhas (diálogos, menus, tela título,
+  versus, tela da CAPCOM, loja, armas, créditos e finais) ficam em inglês, traduzidos do
+  português deste patch (não é o texto da versão americana). Os letreiros que são desenhos do
+  jogo (INICIAR, PRÓX., SAIR, ERRO, NO ANO DE 20XX AD e o grafite de uma fase) voltam aos
+  desenhos originais: READY, NEXT, EXIT, ERROR, IN THE YEAR 20XX AD. Em português fica tudo
+  como antes. O idioma fica guardado enquanto o videogame estiver ligado (o reset mantém a
+  escolha); para trocar, segure SELECT ao ligar ou ao dar reset.
+- Seleção de personagem: depois de INICIAR JOGO ou PASSWORD na tela título vem uma tela no
+  estilo da tela de weapon get, com a mesma animação (as molduras de metal acendem, as fotos
+  entram deslizando, o clarão com o mesmo som e o degradê azul) e a música do modo versus. O Mega Man fica à
+  esquerda e o Bass à direita, com as imagens da tela "Escolha seu herói" do Mega Man & Bass
+  (Capcom), nas posições de lá, e os nomes em cima: MEGA MAN em azul e BASS em roxo. Como lá,
+  o personagem que não está escolhido fica escurecido (com as cores escuras daquela tela). Na
+  imagem do Bass, o olho (que lá é vermelho-amarronzado) ficou em tons de preto. O cursor (a
+  bolinha da tela título) escolhe com esquerda/direita (som do cursor da seleção de fases); START, A ou B confirmam (som de escolha da seleção de
+  fases), o cursor pisca e a tela escurece. Depois vem o jogo novo ou a tela de senha do
+  personagem escolhido. O VERSUS continua indo direto para o modo versus.
+  - MEGA MAN: a campanha original do Mega Man 7 inteira, como era, em português: a introdução
+    com o Auto e a Roll, o Dr. Light, as fases, os chefes, o Bass e o Treble como inimigos, a
+    loja do Auto, o castelo do Wily e o final, tudo sem as mudanças deste patch (só três: na
+    introdução o caminhão do Auto para antes do degrau que vem antes do bloco alto, e parado
+    ele fica parado mesmo: sem balançar e com as esteiras quietas; no original ele parava com a
+    frente atravessando o degrau; e no fim dos créditos, na última caminhada no fogo, depois de
+    "e CAPCOM e Toda Equipe." aparece "Hack feita por: Repliroid do Futuro (Gabriel Calmon)",
+    em inglês "Hack made by"; e a frase embaixo do nome do chefe na apresentação dele, como
+    na campanha do Bass, veja abaixo). A tela de
+    senha é a original, com as senhas originais do jogo. Depois do final volta para a tela
+    título (e a seleção de personagem).
+  - BASS: a campanha do Bass, com tudo o que está descrito abaixo.
+  As duas campanhas são independentes: as senhas de uma não servem na outra. (Por dentro: a
+  ROM agora tem 6 MB; a campanha do Mega Man roda de cópias das partes do jogo original que o
+  patch modificou, então nada do Bass interfere nela.)
+- Bochecha roxa do Bass: os sprites do Bass no Mega Man 7 não tinham o detalhe roxo da
+  bochecha (a paleta dele não tinha roxo). Agora todos os quadros dele com o rosto à mostra
+  (parado, correndo, pulando, atirando, na escada, no dash, nas cenas...) têm a faixa roxa na
+  diagonal da bochecha, desenhada por Gabriel Calmon no quadro parado e levada para as outras
+  poses. No Bass normal ela usa dois tons de roxo (as duas cores livres da paleta dele, os
+  roxos do Super Bass; os tiros continuam roxos como antes); no Bass fundido com o Treble usa
+  os três tons de roxo da paleta dele (os das asas). No Bass que anda no final do jogo, as
+  marquinhas escuras embaixo dos olhos também ficaram roxas.
+- Abertura antes da tela título (a mesma nas duas campanhas): o texto diz "O mundo saudava
+  Mega Man." (em inglês "The world hailed Mega Man."), combinando com a imagem do Mega Man.
+- Introdução: o Bass não anda mais no caminhão do Auto e o Dr. Light não aparece. A história
+  começa onde o Wily foge: sem o "READY", logo depois que a tela clareia o Bass chega pela
+  esquerda, vindo por cima do bloco alto onde o caminhão do Auto parava no original: ele entra
+  pela beira da tela já caindo do bloco e pousa no lugar dele (a câmera fica parada). Quando
+  ele pousa, o Treble desce ao lado dele no raio de teletransporte roxo. Os robôs do Wily
+  fogem e a nave dele desce e pousa no chão; ela desliga (o som dela para e as luzes param de
+  girar) e os dois conversam: o Wily comemora a fuga, o Bass só quer saber do Mega Man, e
+  o Wily revela o plano (o Bass deve ganhar a confiança do Mega Man até ele baixar a guarda).
+  O Bass não gosta dos truques, mas aceita seguir o plano por enquanto, e avisa: "MEGA MAN É
+  MEU!!!" (esse trecho aparece bem mais rápido, como o jogo faz nas falas fortes do Bass).
+  Os balões apontam para quem fala; o Bass fala com a voz grave dele, e o Wily e o Bass
+  abrem e fecham a boca enquanto falam (quadro novo do Wily na nave com a boca aberta; ele
+  fica parado durante a conversa e volta a rir no fim). Enquanto o Wily foge, o Bass fica
+  parado, sem piscar.
+  No fim da conversa a nave liga de novo (som e luzes), sobe um pouco, para no ar com o Wily
+  rindo e vai embora como no original (a cúpula fecha e ela sai voando). O Bass diz "Vamos,
+  Treble!", o Treble late três vezes (com o rosnado dele, o mesmo da luta) e some no
+  teletransporte, e o Bass segue para a fase.
+  Parado, o Treble fica quieto (sem farejar). Ao morrer na fase, o "READY" aparece normalmente.
+- Fim da fase introdutória (o encontro com o Mega Man):
+  - Na luta, o Mega Man usa os quadros certos dele: parado, correndo, pulando (subindo e
+    descendo), atirando no chão e no ar, deslizando e pousando. Antes os pulos mostravam o
+    sprite embaralhado. Quando é atingido ele não troca de quadro (sem sprite de dano).
+  - O Mega Man dispara os tiros do buster dele (a bolinha amarela do Mega Man), não mais os
+    tiros do Bass, saindo da ponta do buster: em pé na altura do clarão do tiro, no ar no
+    meio do buster (antes saíam um pouco mais altos).
+  - Sons do Mega Man: o tiro e o pouso são os do Mega Man (eram os do Bass chefe) e o dano é o
+    som de dano do jogador.
+  - A conversa tem duas versões, conforme quem vence a luta:
+    - O Bass vence (acertou o Mega Man o bastante, ou o tempo acabou com o Bass na frente):
+      Mega Man: "Quem é você?" / Bass: "Eu sou Bass e este é Treble! Estávamos perseguindo a
+      nave do Wily, até você aparecer." / Mega Man: "Também estávamos atrás do Wily, mas pelo
+      que vejo você não precisa da nossa ajuda." "Vamos Rush!" - o Mega Man e o Rush vão
+      embora - Bass: ".......... Que fracote .........." - o Treble e o Bass vão embora.
+    - O Mega Man vence (o Bass ficou com pouca energia, ou o tempo acabou com o Mega Man na
+      frente): Bass: "Nada mal! Você é bem forte como dizem!" / Mega Man: "Mas quem é você?" /
+      Bass: "Eu sou Bass, e este é Treble!" / Mega Man: "Por que me atacou?!" / Bass: "Só
+      queria testar sua força! Estávamos atrás do Wily, mas vejo que não precisa de nossa
+      ajuda!" / Mega Man: "Entendo! Mas preciso impedir Wily antes que seja tarde!" "Vamos
+      Rush!" - o Mega Man e o Rush vão embora - Bass: "Aproveite sua vitória enquanto pode,
+      Mega Man! Na próxima vez eu vou derrotá-lo!" - o Treble e o Bass vão embora.
+    Os textos foram escritos por extenso ("vc" virou "você", "Porquê" virou "Por que") e com
+    maiúsculas só onde vão.
+  - Quando a luta acaba, o Bass volta sozinho, andando, para o canto esquerdo da tela (mesmo se
+    estiver do outro lado do Mega Man) e fica de frente para o Mega Man, que fica virado para
+    ele. Só então o Treble e o Rush descem, frente a frente, e depois começa a conversa.
+  - Quando o Bass vence, o Mega Man pousa em pé (quadro parado) e só então se ajoelha, abaixa
+    mais e senta no chão, com a boca aberta (sem fôlego). São 3 quadros novos, tirados da
+    imagem enviada, agora no lugar certo (em cima do chão, alinhados com o corpo dele) e na
+    proporção do Mega Man parado: a imagem desenha ele mais largo (capacete com 18 pixels de
+    largura, parado ele tem 15), então cada quadro perdeu uma coluna em cada seis (a que menos muda
+    o desenho, a mesma nos quadros de boca aberta e fechada).
+    Na conversa ele fica sentado com a boca fechada (mais 3 quadros novos, de boca fechada:
+    uma linha de boca limpa, sem o pixel preto que sobrava ao lado) e abre a boca quando fala. Antes de ir embora ele se levanta.
+  - Quando o Mega Man vence, ele fica em pé e fala com o quadro de fala dele. Parado, ele só
+    pisca os olhos (olhos meio fechados e fechados), sem virar a cabeça para os lados.
+  - Os cachorros descem no chão (na mesma altura do Bass), entre os dois, um virado para o
+    outro: o Treble na frente do Bass e o Rush na frente do Mega Man. Se o Bass e o Mega Man
+    estiverem perto demais para caberem os dois cachorros no meio, cada um fica atrás do dono.
+  - O Treble rosna e o Rush late: o Rush fica parado nas quatro patas encarando o Treble e,
+    quando late, abre a boca (latido do Rush do jogo original) e volta a encarar o Treble.
+    O Rush é o Rush do jogo original.
+  - Na conversa, o Mega Man fala com a voz fina e o Bass com a voz grave.
+  - Depois do "Vamos Rush!", o Rush late e ele e o Mega Man vão embora juntos no
+    teletransporte; depois da última fala do Bass, o Treble vai embora e depois o Bass.
+  - O raio de teletransporte do Rush (chegando e indo embora) é o do jogo original: rosa e branco
+    com a borda vermelha. Antes ele usava o desenho do raio do Bass nas cores do Rush (laranja).
+- Vozes: em todos os diálogos, o Bass fala com a voz grave e o Mega Man com a voz fina.
+- Tiro do Bass e música: o som do tiro do buster do Bass (o do Bass chefe) tocava na voz 5 do som,
+  que as músicas usam (na fase introdutória cortava um instrumento a cada tiro); agora toca na voz
+  dos efeitos, a mesma do tiro do Mega Man no original.
+- Pouso e dash do Bass e música: o som de pouso (o do Bass chefe) e o som do dash (o do slide do
+  jogo) também tocavam em vozes que a música da fase introdutória usa, e cortavam uma parte dela
+  por quase um segundo a cada pouso ou dash. Agora os dois tocam na voz do tiro do buster. O som
+  do slide é o mesmo do Mega Man, então o slide dele também passou a usar essa voz.
+- Cena do 4º chefe (o Treble avisa da transmissão do Wily): quando o Treble desce, o Bass se vira
+  para ele, mesmo que tenha terminado a luta virado para o outro lado.
+- Sons de teletransporte: o Bass (e o Treble) usam o som de teletransporte do Bass do jogo
+  original (o do Bass chegando e indo embora no encontro), e o Mega Man (e o Rush) o do Mega Man,
+  em todas as cenas: o Bass chegando no começo da fase e depois de morrer, indo embora depois das
+  falas do chefe vencido, no fim da fase introdutória, saindo de uma fase já vencida pelo menu e
+  nas cápsulas de teletransporte; o Treble descendo e subindo na introdução e na cena do 4º chefe; o Mega Man
+  chegando e indo embora no encontro, indo embora na cena do 3º chefe e no laboratório; o Rush
+  descendo no encontro. O Bass chefe das fases do Wily continua com o som dele. As bolhas de
+  energia girando em volta do Bass depois de vencer um chefe têm o som delas, como no jogo
+  original (numa versão anterior tocavam o som de teletransporte).
+- Pouso do Bass: ao tocar o chão depois de um pulo ou de uma queda (e na chegada dele na fase
+  introdutória), o Bass faz o som de pouso do Bass chefe do jogo original (o mesmo do Bass e do
+  Super Bass nas lutas), no lugar do som de pouso do Mega Man. O Mega Man (na campanha dele e no
+  modo versus) continua com o dele.
+- Apresentação dos chefes (depois de escolher a fase): embaixo do nome do Robot Master aparece a
+  frase que só existia na versão japonesa (Rockman 7), com a fonte, as cores e o efeito de surgir
+  do branco de lá (os dados continuavam na ROM americana, só não eram mostrados): FREEZE MAN
+  "DON'T SLIP!", CLOUD MAN "WATCH YOUR STEP", JUNK MAN "FORGOTTEN FACTORY", BURST MAN "BOMB
+  BOMBER BOMBEST", SPRING MAN "BOYOYON PARADISE", SLASH MAN "JURASSIC JUNGLE", SHADE MAN
+  "MYSTERY! THE HORROR" e TURBO MAN "CHAMP OF THE ROADS". Nas duas campanhas e nos dois
+  idiomas (o texto é o original, em inglês, como no jogo japonês).
+- Proto Man: o raio de teletransporte dele (chegando nas fases e indo embora depois da luta na
+  fase do Shade Man) volta a ser o do jogo original nas cores dele. Antes ele usava o desenho do
+  raio do Bass nas cores do Proto Man.
+- Proto Man e Bass: antes eram as falas do jogo original só com o nome trocado (ele chamava o
+  Bass de "maninho", falava em "nosso pai", dizia que o Dr. Light faria um equipamento novo para
+  ele e o Bass agradecia o escudo todo educado). Agora os três encontros são conversas: o Proto
+  Man e o Bass falam um de cada vez, o balão apontando para quem fala e o Bass com a pose de fala.
+  - Fase do Cloud Man: "Então você é Bass..." / "Hmph! E quem é você?!" / "Proto Man. Ouvi falar
+    de você." / "Então saia do meu caminho!" / "Cuidado, Bass. Nem tudo é o que parece." / "Não
+    preciso dos seus conselhos!".
+  - Fase do Turbo Man (a mesma conversa com ou sem as placas): "Bass! Eu soube o que fez no
+    laboratório!" / "Veio me dar um sermão?!" / "Wily está usando você!" / "Não recebo mais
+    ordens daquele velho!" / "Então prove que pode escolher seu próprio caminho!" / "Não preciso
+    provar nada a você!".
+  - Fase do Shade Man, antes da luta: "Chegou a hora de testar suas habilidades!" / "Finalmente
+    vai parar de falar?!" / "Mostre-me do que é capaz!" / "Você pediu por isso!".
+  - Fim da luta (cena nova): o último tiro arranca o escudo do Proto Man, que voa até o meio da
+    tela; ele dá o dash até o canto direito (o dash dele, sem o escudo) e cai sentado no chão,
+    com a cabeça encostada na parede e as pernas viradas para o Bass (sprite do Mega Man 2: The Power Fighters sem o escudo nas
+    costas, ajustado ao tamanho e às cores do MM7), com explosões e faíscas. A boca dele mexe
+    enquanto ele fala. Depois: "Ugh!... Quanto poder... Parece que subestimei você!..." /
+    "Esperava mais de você!" / "Meu... Escudo!..." / "Seu escudo? Nada mal para um prêmio de
+    guerra!" / "Vai se arrepender disso!...". Ele se teletransporta do chão mesmo, e o Bass vai
+    até o meio da tela e pega o escudo.
+  - "Você obteve o Proto Escudo!" saía do balão: agora é "Obteve o Proto Escudo!" (nas duas
+    campanhas).
+  - Ao pegar o escudo, ele fica em cima da mão aberta do Bass (antes cobria o rosto dele), do
+    lado para onde o Bass está virado.
+  - Corrigido: com o Proto Escudo equipado, o jogo travava quando o Bass dava o dash (inclusive
+    no meio de uma carga do buster). O escudo usa o número do quadro do personagem para escolher
+    o próprio desenho, e as tabelas dele só têm os quadros do Mega Man; os quadros do dash do
+    Bass (e os novos de arremesso e chute) passavam do fim delas e o jogo lia lixo. Agora cada
+    quadro novo do Bass usa, para o escudo, o quadro do Mega Man que ele substitui (no dash, o do
+    slide). Como o dash do Bass é mais inclinado e mais para a frente que o slide do Mega Man, o
+    escudo é deslocado em cada quadro do dash (para a frente e para cima) e fica nas costas dele,
+    atrás do cabelo, como no slide do Mega Man (sem isso ele ficava no chão, atrás dos pés).
+  - Corrigido: com o Proto Escudo equipado, depois de um tiro carregado o escudo ficava
+    quebrado (só um pedacinho branco na frente do Bass) até ele mudar de pose. Os tiros
+    carregados do Bass são maiores que os do Mega Man e eram enviados para a memória de vídeo
+    numa tira só, que passava por cima dos desenhos do escudo. Agora eles ocupam só a parte que o
+    tiro carregado do Mega Man ocupa no jogo original (sem mudar nada no desenho dos tiros), e o
+    escudo fica inteiro.
+  Na campanha do Mega Man as conversas são as originais.
+- Fase do Shade Man: o Rush parado que sobrava do antigo encontro (e dava dano ao encostar) foi
+  removido.
+- Itens: ao pegar um item, o Bass levanta a mão aberta (antes levantava o buster) e o item fica
+  em cima da mão. O Bass fundido também levanta a mão (antes ficava parado com o item flutuando
+  em cima da cabeça): o mesmo quadro de mão para cima, com as asas e as cores do Bass fundido
+  (cinto e detalhes dourados). O fim da fusão continua igual.
+- Ovo do Slash Man: quando a gosma acerta, o Bass fica vermelho com uma paleta própria (tons de
+  vermelho do escuro ao claro, sozinho e fundido) e a gosma fica em cima da cabeça dele (antes
+  ficava deslocada).
+- Loja do Reggae (no lugar da loja do Auto, que não fazia sentido para o Bass): quem vende é o
+  Reggae, o pássaro robô do Dr. Wily (como no Mega Man 10).
+  - O Bass já começa dentro da loja: saíram a fachada (o prédio do Big Eddie) e a caminhada até
+    a porta.
+  - Cenário nas cores do laboratório do Wily (roxo escuro). O Big Eddie (a cabeça roxa com os
+    olhos, o cano que descia até ela e a sombra dela) e os dois Eddies em cima do contador de
+    parafusos foram tirados do fundo. Em cima da máquina de fazer itens fica um retrato do
+    Reggae (o da tela de senha errada) numa moldura igual aos painéis cinza da sala, com a mesma
+    sombra na parede.
+  - O Reggae faz as poses do Auto com os sprites dele (quadros escolhidos por Gabriel Calmon):
+    parado de bico aberto, falando (também quando explica), fabricando o item, abrindo as asas e
+    caindo deitado quando o item fica pronto, "Squaak?!" sem o parafuso e comemorando com a placa
+    e os leques (espelhado).
+  - No lugar do Eddie pequeno fica um Metall (o da fase de abertura, com os quadros do jogo): fica
+    de pé olhando para o Bass e de tempos em tempos se esconde no capacete e volta. Agora ele é
+    um personagem separado do Reggae (anda pela loja na frente dele).
+  - Falas reescritas para o Reggae ("Squaak!", "Parafusos! Troca! Troca!"); o Hyper Bolt é o
+    parafuso que o Reggae perdeu. As descrições dos itens continuam as mesmas.
+  - Falando, o Reggae abre e fecha o bico no mesmo ritmo: 7 quadros fechado, 7 aberto (era o
+    ritmo da boca do Auto: 8 quadros fechado e só 2 aberto, rápido demais para o bico aberto
+    aparecer, e ele mal parecia falar).
+  - Fabricando o item, o Reggae alterna R14 e R13 em ritmo igual (R14 R13 R14 R13 R14 R13,
+    repetindo enquanto a máquina trabalha), espelhados: ele olha para o outro lado. Antes ficava parado num quadro ou piscava rápido.
+  - Item pronto: R4, R5, R15 e R21, cada quadro aparecendo (antes o R4 e o R5 passavam rápido
+    demais para serem vistos).
+  - O item fabricado cai na cabeça do Reggae (antes parava na altura da cabeça do Auto) e
+    continua até a mão levantada do Bass, parando em cima dela (antes ficava em cima da cabeça
+    dele, ao lado da mão). Quando vai direto para o Bass, também cai na mão.
+  - Evento novo do Hyper Bolt: o Hyper Bolt que o Bass entrega cai no chão ao lado do Reggae (parado em
+    cima do chão, sem afundar), e
+    o Reggae manda o Metall instalar ("Metall, instale na máquina!"). O Metall anda até o
+    parafuso, encosta nele (o parafuso some), volta e fica na frente da máquina de fazer itens
+    fazendo o som de instalação (o mesmo de quando o Auto instala o Hyper Bolt nele, 4 vezes),
+    depois volta para o lugar dele e o Reggae comemora. O Reggae não faz mais a animação de
+    colocar o Hyper Bolt.
+  - Entrega do Hyper Bolt: o Bass faz o golpe do Slash Claw no chão (braço para trás, girando,
+    esticado e passando), com as cores normais dele, e o Hyper Bolt sai da mão dele quando o
+    braço estica. Antes ele fazia quadros que não combinavam (soco, buster e ajoelhado).
+- Caixas de item das fases: cada caixa mostra o ícone do menu do item que dá, em roxo, como no
+  jogo original. A do T.Search (fase do Freeze Man) tem o Treble roxo do ícone do T.Search, e a
+  do T.Jet (fase do Junk Man) tem a bolinha roxa do ícone do T.Jet (era vermelha). Na fase do
+  Junk Man a caixa ainda aparecia azul: lá a paleta dos itens é a mesma da barra de vida, e os
+  roxos iam para outra paleta; agora a caixa usa uma cópia dessa paleta com os roxos (a barra de
+  vida continua com o azul dela).
+- Menu de armas: M.BUSTER virou B.BUSTER e S.ADAPT virou T.BOOST. O ícone do B.Buster era o
+  do Mega Man; agora é o primeiro tiro roxo do Bass.
+- Treble no lugar do Beat: o Bass já começa o jogo com ele (jogo novo e senha), com as 4
+  chamadas, e a gaiola do Beat na fase do Slash Man não aparece mais. Na página 2 do menu, os
+  ícones das chamadas são o ícone do T.Search (a cabeça do Treble no disco) dentro da moldura do
+  ícone do Beat, com o anel roxo. Na loja do Reggae, o item de 80 parafusos é o mesmo ícone do
+  T.Search, nas cores dele, e o Reggae diz "Esse é o Lobo Treble. Treble virá para te salvar
+  se cair num buraco."
+  Quando o Bass cai num buraco, o Treble desce no teletransporte roxo exatamente onde o Bass
+  caiu, segura o Bass pela cabeça (o mesmo encaixe da fusão) e sobe com ele, com a chama verde do
+  propulsor saindo na diagonal das costas. Primeiro de boca fechada; quando começa a perder as
+  forças (o momento em que o Beat batia as asas mais devagar) abre a boca e a chama fica menor e
+  falhando, e o Bass vai descendo. Quando o Bass se solta, o Treble vai embora no teletransporte
+  para cima. O tempo e os comandos são os do Beat (para cima sobe mais, pulo solta).
+  Corrigido: depois de um resgate, um inimigo que aparecesse no lugar que o Treble usou na memória
+  podia ser desenhado embaralhado (visto na fase do Cloud Man).
+- Texto INICIAR antes do Bass aparecer na fase: roxo sombreado de preto (antes saía laranja, com
+  as cores do Bass, e com pontinhos soltos no A, no R e no C). Também quando o Bass volta entre as
+  portas depois de morrer na luta contra um chefe (na do Freeze Man ele voltava laranja: a luta
+  devolvia as cores do Bass a cada quadro, por causa do congelamento).
+- Tela do logo da CAPCOM no começo: o logo fica no meio da tela, sem o texto que havia em volta,
+  e embaixo dele: "VENCEDORES NÃO VENDEM REPROS!" e "SE VOCÊ PAGOU POR ESSA ROM / CONSIDERE-SE
+  ENGANADO!".
+- Menu de itens (página 2): o ícone do item PU (que faz o soco teleguiado ir mais longe) mostrava
+  o punho do Mega Man; agora mostra o punho do soco teleguiado do Bass fundido (sem a chama), dentro
+  da moldura original do ícone. O mesmo punho do Bass aparece agora no item PU que o T.Search
+  desenterra na fase do Turbo Man (dentro da cápsula, no lugar do punho branco e do punho vermelho
+  do Mega Man) e no Hiper Tiro Foguete da loja do Reggae (no lugar do punho do Super Mega Man; a
+  chama amarela atrás dele continua a mesma).
+- Loja do Reggae: o cursor da lista de itens anda para o lado do direcional (direita escolhe o item
+  da direita, esquerda o da esquerda); antes andava ao contrário.
+- Rosto do Bass com os sprites dele mesmo (os do Bass chefe):
+  - Falando nas cenas, ele abre e fecha a boca com o quadro de fala dele, no ritmo dele.
+  - Parado, ele pisca como o Bass chefe: pisca uma vez, um pouco depois pisca duas vezes,
+    espera e repete (sozinho e fundido). A piscada não abre mais a boca.
+- Bass jogável (sprites do modo versus + folha de expansão), cores por arma e carga.
+  Com qualquer arma, o rosto do Bass (pele, olhos e a borda escura do capacete em volta deles)
+  fica com as cores normais, em todos os quadros do Bass sozinho; só o resto muda de cor.
+- T.Boost (S.Adaptor): a fusão é a mesma da luta do Wily 2, quadro a quadro.
+  O Treble se materializa atrás do Bass, virado para a frente como ele, respira, rosna
+  duas vezes (com o som da luta) enquanto o Bass reage, se agacha e dá o bote por cima do
+  Bass (até 124 pixels para cima); o Bass pula (até 83 pixels), se encolhe junto dele
+  (pose da luta) e o quadrado branco girando se fecha sobre os dois enquanto a
+  tela clareia. Com a tela toda branca ele vira o Super Bass; depois a luz branca se abre a
+  partir dele, o branco some e a aura roxa pisca, como na luta. Então ele cai e já pode
+  jogar, com as asas nas costas e com as cores roxas da fusão.
+  Como na luta, o Treble fica na frente do Bass e o quadrado branco brilhante fica na frente
+  dos dois (eles vão ficando brancos dentro do quadrado).
+  Se o Bass estiver de costas para a beira da tela, o Treble aparece na frente dele (como o Rush).
+  A altura do bote e do pulo se ajusta para o encaixe dos dois aparecer inteiro na tela
+  (sem cortar o Treble no alto); com teto baixo, o pulo também fica mais baixo para o Bass
+  não ficar preso na parede.
+  Em fases que já usam efeitos de HDMA, a fusão acontece igual, só sem o quadrado e o clarão.
+- Tiros do Bass (os mesmos projéteis do Bass chefe, roxos como na luta contra o Super Bass):
+  - Os tiros saem da ponta do buster em cada pose (parado, correndo, pulando, na escada),
+    já encostados no cano do buster no primeiro quadro.
+  - Bass sozinho: o tiro normal é a rajada do Bass chefe, um tiro por toque no botão.
+  - Tiro carregado fraco (meia carga): agora tem desenho próprio, os 3 quadros menores da
+    folha "Bass MM7 Expansion Sprites Sheet": sai como uma bolinha e depois alterna a bola de
+    miolo branco com a bola desenhada (antes mostrava a mesma esfera da carga cheia).
+  - Tiro carregado cheio: a esfera da mesma folha, com o desenho dentro (antes o desenho
+    sumia, porque as cores dele viravam uma só). Sai no quadro comprido e depois gira entre os
+    outros, como a esfera do Bass chefe; o 3º quadro da folha, quase igual ao 2º, ficou de fora
+    porque não sobrava espaço para animações maiores. Os tiros carregados são roxos como os
+    outros (as cores verdes da folha viram os roxos do Super Bass e o branco).
+  - Sons dos tiros: o tiro normal (sozinho e fundido) faz o som do tiro do Bass chefe, o tiro
+    carregado fraco o mesmo som do tiro carregado fraco do Mega Man, a carga cheia o som da
+    esfera carregada do Bass chefe, e o soco teleguiado o som do soco-foguete dele.
+  - Quando o tiro carregado acerta um inimigo, a explosão é a da esfera do Bass chefe
+    (roxa); o gráfico do inimigo não fica mais bagunçado.
+  - Bass fundido com o Treble: mesma jogabilidade do Mega Man com o Super Adaptor
+    (sem carrinho). Cada toque no botão de tiro solta 3 tiros seguidos. Segurando o botão,
+    ele solta a rajada e continua carregando; o tiro carregado
+    é o soco-foguete do Bass chefe, com as chamas, que persegue o inimigo.
+- Pedaços e efeitos das armas especiais (ex.: os flocos do Freeze Cracker quando o cristal quebra
+  no chão) não saem mais desenhados errado: quando um deles ocupava o lugar de um tiro do Bass,
+  herdava o desenho do tiro.
+- Armas especiais: os projéteis do T.Bolt, Freeze Cracker, Noise Crush e Danger Wrap saem
+  da ponta do buster do Bass em cada pose (parado, correndo, pulando, na escada).
+- Scorch Wheel, Junk Shield e Wild Coil: no chão o Bass parte da pose de base, se ergue e
+  abre as mãos para cima (5 quadros da folha de sprites do Bass), com o corpo centralizado
+  no meio da roda de fogo, do escudo de sucata e das molas. No ar ele faz a mesma animação,
+  já a partir do quadro em que se ergue.
+- Slash Claw: o golpe com o braço (braço para trás, cruzando, esticado e passando), 4 quadros no
+  chão (agachado, pernas abertas) e 4 no ar: quadros não usados do Bass do próprio jogo, do GIF do ACE_Spark, nas cores do jogo. O GIF desenha o Bass 1,5 vez
+  mais largo que o jogo (a gema do capacete e o olho com 3 pixels de largura, no jogo 2; as botas
+  com 10, no jogo 7; a altura é a mesma): cada quadro perde uma coluna em cada três (a mais
+  parecida com a vizinha, nunca duas lado a lado) e fica na proporção do Bass parado. Cada quadro
+  fica no lugar do quadro original (no chão, com os pés no chão e o corpo no centro do Bass
+  parado; no ar, no centro do quadro de pulo). Na escada, como no Slash Claw do Mega Man, a mão
+  esquerda segura a escada e o golpe é dado com a direita: o quadro do tiro na escada, com a mão
+  de garra (e o punho dourado) do golpe novo no lugar da ponta do buster. O braço direito segue
+  as posições do braço do Mega Man no golpe da escada: puxado para trás na altura do queixo,
+  descendo para trás, esticado para a frente e dobrado para cima ao lado do rosto, onde fica
+  até o fim. Do segundo quadro em diante a mão esquerda segura a escada no alto, atrás da
+  cabeça, como a do Mega Man. Cabeça, corpo e pernas ficam parados nos degraus. O ritmo é o do golpe
+  original (preparo, golpe, braço esticado e o último quadro segurado), e a garra sai no mesmo
+  momento.
+  O tempo de cada arma é o mesmo de antes (os tiros saem no mesmo momento e o controle volta
+  no mesmo quadro). Na escada o Scorch Wheel, o Junk Shield e o Wild Coil saem com o Bass
+  segurando a escada (sem erguer os braços), no mesmo lugar e no mesmo momento de antes.
+- Tiro na escada (Bass sozinho e fundido com o Treble): o quadro do Bass de frente na escada com
+  o braço esticado, da folha de sprites do Bass, no lugar do quadro de lado, afinado em 5 pixels
+  no tronco e nas pernas para ficar na proporção dos quadros da escada (rosto, cinto e buster
+  como no desenho original). Os tiros saem da
+  ponta do buster, também o carregado e as armas que saem do buster (Freeze Cracker, Thunder
+  Bolt, Noise Crush, Danger Wrap). Fundido, ele tem a asa do Treble nas costas e os detalhes
+  dourados do Super Bass, como nas outras poses. Depois do tiro (e das armas na escada) ele volta
+  ao quadro da escada que olha para o lado do tiro, em vez de virar a cabeça para o outro lado.
+  Fundido, o soco teleguiado na escada também usa esse quadro (antes aparecia o quadro antigo, de
+  lado), com o braço sem a mão e sem o buster (veja Soco-foguete, abaixo).
+- Soco-foguete (Bass fundido, tiro carregado): a chama do punho teleguiado é amarela (era roxa,
+  as cores do Super Bass chefe). O punho que sai é a mão do Bass, não um tiro do
+  buster, e é a outra mão, a cinza escura da frente (a mão branca é a do buster), como no Super Bass
+  chefe voando sem o punho. No soco (no chão, no ar e na escada) o braço esticado termina no pulso,
+  sem a mão e sem o buster, como o Super Mega Man original fica com o toco do braço. Parado,
+  correndo, pulando e caindo até o punho voltar, a mão cinza da frente some e o braço termina na
+  faixa laranja do pulso; a mão branca continua. Antes ele soltava o soco segurando o buster. A
+  corrida e as aterrissagens com o punho fora usavam 4 quadros da corrida normal, com a mão: agora
+  têm quadros próprios (nos quadros 10, que não era usado, e 17, 48 e 49, que só repetiam o 14 e o
+  47 no soco e no soco da escada; o soco sai no mesmo lugar e momento).
+- Dano e morte (Bass sozinho e fundido com o Treble): o Bass jogado para trás, de boca aberta e
+  braço esticado, no lugar da pose de dano (depois do pisca rápido do começo do golpe), tanto
+  levando dano quanto morrendo; fundido, com a asa do Treble e o dourado do Super Bass. O rosto não
+  é pintado pelas armas. O desenho da folha é mais largo que o do jogo (o Bass parado da mesma
+  folha tem 43 pixels de largura, no jogo 30, com a mesma altura): perdeu uma coluna em cada três
+  (a que menos muda o desenho), como os quadros do Slash Claw, e ficou na proporção do sprite
+  base do Bass.
+  Como no jogo original, a pose pisca: um quadro um tom mais claro (cada cor um passo mais clara,
+  a mais clara vira branco) alterna com o normal. Morrendo, o Bass fica no quadro claro e depois
+  alterna claro e normal até explodir; levando dano, alterna também, como o Mega Man.
+- Voo do Bass fundido (pulo de novo no ar): os quadros do Super Bass chefe voando, com o rastro
+  do Treble atrás: decola sem rastro, depois rastro curto e longo, um de cada vez; com o soco
+  foguete lançado, sem o punho da frente, como o chefe. O tiro e o soco teleguiado saem do buster
+  embaixo do corpo (antes o soco nascia 160 pixels à frente, fora da tela). Atirando enquanto
+  voa, ele estica o braço da frente (o do punho escuro, embaixo do rosto) para a frente, por baixo
+  do rosto, com o canhão (o da pose de pulo e tiro da folha do Super Bass) na ponta; a mão branca
+  de baixo continua. O tiro sai da boca do canhão. Na decolagem toca o
+  som do chefe decolando. O rastro, verde na folha, fica branco e roxo-claro: a paleta do Bass
+  fundido não tem verde (no chefe o rastro é um objeto à parte, com paleta própria).
+- Dano de fogo (Bass sozinho e fundido): como o Mega Man, o Bass fica carbonizado, brilhando e em
+  chamas, agora com a silhueta do Bass (da pose de dano), em vez do Bass normal com as cores do
+  fogo por cima. Fundido também, sem as asas, como o Mega Man com o Super Adaptor no original.
+  O quadro em chamas é desenhado na silhueta do próprio Bass (chamas na borda, o resto
+  carbonizado, como no quadro do Mega Man); antes ele usava as chamas do quadro do Mega Man
+  esticadas, que ainda mostravam o capacete e o rosto do Mega Man. As linhas de dentro do desenho
+  do Bass, que também pegavam fogo e faziam um rabisco no meio do quadro, foram tiradas.
+- Congelado e cinza (Bass sozinho e fundido): as paletas de gelo e de cinza eram feitas para as
+  cores do Mega Man (no Bass o cabelo ficava amarelo, as asas e o rosto com cores trocadas). Agora
+  o Bass tem as suas: as cores dele em tons de gelo e em tons de cinza, conforme o brilho de cada
+  uma, com os mesmos tons das paletas do Mega Man.
+- Cinto com as armas: o cinto do Bass (a fivela e as duas cores dos lados) ficava sempre laranja
+  e marrom com qualquer arma. Agora ele muda de cor junto com a arma: usa as cores claras da arma
+  (as mesmas das aletas), com a fivela na cor mais clara. Na forma normal ele volta aos três
+  laranjas do sprite original do Bass (antes os lados eram marrom). Vale para todos os quadros com o
+  cinto (parado, correndo, pulando, atirando, na escada...) e para os quadros com rastro de fogo. As
+  linhas laranja dos pés e das pernas já usavam as cores das aletas e mudam com a arma do mesmo
+  jeito. O dash usa a mesma paleta do Bass parado, na forma normal e nas 8 armas (só os olhos ficam
+  cinza escuro em todas, como antes). Fundido com o Treble, o cinto continua laranja.
+- Slide (botão A): no lugar do slide deitado, o dash do Bass do Rockman & Forte, em 5 quadros:
+  ele se inclina, abaixa, desliza na pose mais baixa e, no fim, se ergue e se recupera antes de
+  ficar parado. As cores seguem as do Bass do MM7 (armadura preta, aletas laranja, olhos como
+  nos outros quadros). A distância, a duração e o tamanho de colisão do slide continuam os do jogo
+  (ele ainda passa por baixo das passagens baixas). Cores com as armas: parte da perna e do braço
+  ficava preta no slide (o cinza escuro da armadura do Rockman & Forte ia para o preto, que as
+  armas não pintam); agora vai para o cinza escuro da armadura e pega a cor de cada arma, como nas
+  outras poses. A perna de trás (a mais escura) ainda tinha uma mancha preta em 3 quadros (a
+  sombra da perna no Rockman & Forte): agora é o cinza escuro da armadura com o contorno preto,
+  na forma normal e com todas as armas. A aleta no slide tinha só dois tons (o mais claro e o do
+  meio), que no Freeze Cracker e no Slash Claw são quase iguais: a aleta parecia uma cor só. Agora
+  ela tem os três tons da aleta do Bass parado (o contorno no tom mais escuro, uma faixa no tom do
+  meio junto dele e o resto no mais claro), na forma normal e com todas as armas. O rosto no slide (deitado, abaixando e se levantando) tem as mesmas cores do rosto
+  do Bass parado (antes a pele ficava num marrom bem mais escuro), com todas as armas. Os olhos
+  (que no Rockman & Forte são vermelhos e aqui ficavam marrons) são cinza escuro, o mesmo cinza com
+  todas as armas, como o olho do Bass na tela de weapon get; e os dois pixels pretos em volta do
+  dente, na boca, viraram pele.
+  O slide é só no botão A (SNES), como o dash do Rockman & Forte: no chão (parado, andando ou
+  pousando), um toque no A desliza; no topo de uma escada o A também desliza. Baixo + pulo não faz
+  mais o slide: é um pulo normal. Fundido com o Treble o A não faz nada (o Bass fundido não
+  desliza), nem nas cenas em que o jogo controla o Bass.
+- Bass sozinho: correndo e atirando usa a cabeça (de boca fechada), o peito e o braço do
+  buster esticado do sprite 4A09 do Bass chefe, que andam juntos; o quadril e as pernas são
+  os da corrida, no mesmo lugar e no mesmo passo, sem os braços da corrida balançando.
+  Levando dano ele não vira mais para o outro lado.
+- Bass fundido com o Treble: todas as poses são as do Bass sozinho com as asas nas costas
+  e os detalhes dourados do Super Bass no peito e nos ombros (parado, correndo, correndo
+  e atirando, pulando, pulando e atirando, atirando, soltando o soco, levando dano,
+  agachado). Na escada, de costas, as duas asas aparecem por cima das costas, saindo logo
+  abaixo da nuca.
+- História invertida: Bass/Treble no lugar de Mega Man/Rush nas cenas, e vice-versa.
+- Diálogos com os nomes trocados.
+- T.Coil, T.Jet e T.Search (no lugar de R.Coil, R.Jet e R.Search, também no menu de armas): quem
+  vem ajudar é o Treble, com o raio roxo dele na chegada e na saída. Os sprites são os da folha do
+  Treble para os modos, no lugar dos quadros do Rush, no mesmo tempo, todos alinhados pelo corpo (os
+  anéis amarelos e as patas de trás ficam no mesmo lugar de um quadro para o outro):
+  - Parado ele fica firme (sem tremer) e de vez em quando rosna e olha para trás; esperando, cochila
+    com a bolha no focinho.
+  - T.Coil: o Treble se agacha parado, com a cauda levantada (a mesma de quando ele está parado,
+    um pouco inclinada para trás, atrás da mola), e a mola sai das costas dele quando o Bass pousa
+    (o Bass pousa nas costas do Treble agachado, um pouco acima de onde pousava no Rush). Enquanto a mola
+    sobe e desce, as patas e o corpo ficam parados; só a mola se mexe.
+  - T.Jet: o Treble se agacha, a cauda vira o propulsor, ele deita e brilha, e voa com a chama verde.
+    Voando, o jet (com a cauda/propulsor) fica parado e só a chama se mexe, atrás dele: como no GIF
+    do voo, o jet sem chama e depois os 4 quadros de chama da folha (da maior para o rastro fino),
+    50 ms cada (eram 100 ms, lento demais no jogo), em volta. O Bass fica em pé no
+    jet na mesma altura do Rush Jet, como no exemplo da folha.
+  - T.Search: fareja mexendo só o focinho, com os olhos meio fechados (dois quadros novos, feitos a
+    partir do 1º e do 2º quadro da folha). Cava na ordem do GIF de referência: 4º, 6º e 5º quadro da
+    folha, o mesmo tempo cada um, com as pedrinhas de terra do Rush onde ele cava: saem logo atrás das
+    garras quando a pata raspa e caem mais para trás quando ela levanta; a volta inteira dura o mesmo
+    que a do Rush.
+    Quando acha o item, abaixa a cabeça até encostar o focinho no chão (quadro novo, feito a partir
+    do 5º quadro da folha, com a cabeça mais baixa que o 6º) e fica assim até o item sair, abanando
+    a cauda no começo (mais dois quadros novos, com a cauda inclinada para trás e para frente).
+    Quando o item sai do chão, levanta a cabeça como o Rush: cabeça para frente (2º quadro da folha)
+    e depois para cima (7º).
+    Latir: onde o Rush late, antes de um item raro (3 vezes, antes de cavar) e para um item caído
+    por perto (fareja rápido e late sem parar, de pé): com os quadros 3 e 4 da fileira do Treble
+    parado na folha, boca meio aberta entre os latidos e bem aberta no latido. O T.Search tem uma
+    tabela de quadros só dele para isso, porque esses quadros são os do Treble agachado no T.Coil.
+    O som é o rosnado do Treble (o mesmo da luta e da abertura) no lugar do latido do Rush.
+  - Levando golpe: o quadro de dano da folha; o quadro do brilho tem o mesmo desenho com um brilho
+    branco e laranja de 1 pixel em volta (o brilho largo da folha não cabe no espaço de sprites do
+    ajudante).
+  Menu de armas: os ícones do T.Coil, do T.Jet e do T.Boost ficaram roxos (paleta do Treble). O do
+  T.Search é o ícone do Treble do Rockman & Forte (o do G.BOOST no menu de armas de lá): a cabeça
+  do Treble no disco azul-escuro, pixel por pixel e com as cores de lá, numa borda preta (o ícone
+  de lá é redondo e maior; aqui fica o miolo de 14x14 pixels de dentro do círculo).
+  O Rush das cenas e o Treble do S.Adaptor continuam como antes.
+- Depois de vencer um Robot Master (as 8 fases):
+  - O Bass não vai mais para o laboratório do Dr. Light. Depois de absorver o poder e pousar no
+    chão, ele fala sozinho na sala do chefe: "Hmph! Mais um fracote derrotado!". Então toca a
+    música de weapon get e ele dá 2 tiros com a arma nova para testá-la (ele já fica com as cores
+    dela). Depois diz "Então esse é o poder dele...", fala o nome da arma e o que ela faz, "Com
+    esse poder, ficarei ainda mais forte!" e "Mega Man não terá chance contra mim!", e vai embora
+    no teletransporte. Os balões ficam logo acima da cabeça do Bass e apontam para ele, ele fala
+    com a voz grave e mexe a boca. Os botões não fazem nada durante a cena.
+    O som das bolhas de energia girando em volta dele para quando ele toca o chão. A música de
+    weapon get continua tocando sem parar desde os tiros até a tela de weapon get.
+    Na sala do Cloud Man, as nuvens continuam se mexendo durante a cena: o céu passa para outro
+    canal de vídeo (HDMA) e outra área de memória enquanto os balões aparecem, e volta para o seu
+    quando o Bass vai embora. Antes o céu era desligado durante a cena (as nuvens paravam) e, se o
+    jogo recriasse o objeto do céu, ele escrevia por cima do recurso do balão, enchendo a tela de
+    pedaços de texto.
+    Na sala do Cloud Man, se ele usou a chuva na luta, a chuva não aparece mais dentro dos balões
+    (antes ela cobria o balão e o texto, e aparecia numa faixa na altura das últimas linhas dele):
+    a chuva fica numa camada do fundo que fica desligada na sala, e os balões ligam essa camada
+    para mostrar o texto; agora os desenhos da chuva são apagados quando o Bass pousa.
+    Corrigido: na sala do Burst Man, a cena às vezes travava depois do "Hmph! Mais um fracote
+    derrotado!" (o balão não sumia mais). Acontecia quando o líquido rosa da fase ainda estava
+    ativo na sala, o que depende do caminho feito até o chefe: o objeto do líquido mexia na mesma
+    camada de fundo que o texto usa, e o texto nunca terminava de sair. Agora, quando o Bass pousa,
+    o líquido (que fica fora da tela, abaixo da sala) sai de cena, e durante qualquer texto esses
+    objetos não mexem mais nessa camada. Sem isso, depois do primeiro balão a tela também ficaria
+    toda rosa.
+    Os tiros: com Freeze Cracker, Thunder Bolt, Scorch Wheel e Slash Claw ele aperta o tiro até a
+    arma gastar energia 2 vezes. As armas com um segundo uso mostram esse uso:
+      - Junk Shield: forma o escudo e, quando ele termina de girar, atira de novo e o lança
+        (o jogo não deixava lançar o escudo com o controle da cena).
+      - Noise Crush: um tiro, que bate na parede e volta; o Bass o absorve e dá o tiro forte.
+      - Danger Wrap: a bolha com a bomba e depois, apertando para baixo, a bomba no chão, que
+        explode sozinha.
+      - Wild Coil: uma mola e, na segunda, segura o tiro, carrega e solta as molas carregadas.
+  - A tela de weapon get vem logo depois do teletransporte, sem o laboratório: a tela escurece e,
+    menos de 1 segundo depois, as placas de metal fecham e a arte entra. No lugar do Mega Man
+    aparece a arte do Bass do Mega Man & Bass (a imagem dele dando um soco, da tela de "fase
+    completa" depois de um chefe), tirada da ROM daquele jogo pixel por pixel, sem redução, com as
+    cores das armas do Mega Man 7: a armadura (que lá é preta e cinza) usa as 4 cores da armadura
+    do Mega Man na arte dele para a arma, as partes pretas grossas da armadura viram o tom mais
+    escuro dessa cor, e a barbatana e os detalhes laranja usam as 4 cores claras dele para a arma;
+    o rosto, as luvas, as gemas azuis e o contorno preto ficam com as cores do Mega Man & Bass nas
+    8 armas (menos o olho, que lá é vermelho-amarronzado: ficou preto) (na Scorch Wheel a armadura
+    usa um vermelho próprio, porque as cores do Mega Man ficavam laranja no Bass; cerca de 23 cores
+    por arma, em até 5 paletas de 15; a tela tinha uma paleta livre a mais, a 2, que era do
+    laboratório). As cores do Bass durante o jogo com cada arma agora são as mesmas da arte (antes
+    eram um pouco diferentes): no sprite, o cinza claro, o cinza médio e o cinza escuro da armadura
+    e os três laranjas das aletas pegam as cores da arte que ficam no lugar desses tons. A arte fica no mesmo lugar da tela do Mega Man & Bass (no
+    canto direito) e começa 16 pixels abaixo do topo da área da arte, para nada dela ficar na faixa
+    de cima que desliza junto com a placa de metal quando a arte entra (antes a ponta da barbatana
+    se separava do resto); por isso as últimas 8 linhas das pernas ficam cortadas embaixo. (Antes
+    foram testadas as pinturas do Bass convertidas de vários jeitos e a pixel art do Gabriel;
+    ficou esta.)
+- A história no laboratório do Dr. Light: o Bass nunca aparece no laboratório; nas cenas de lá
+  quem aparece é o Mega Man, com os sprites originais dele do jogo (teletransporte azul, correr,
+  pular, parado e falando): quando fala ele abre e fecha a boca, e parado ele fica parado (sem
+  piscar), na mesma posição do Mega Man do jogo original. A ordem das cenas mudou:
+  - As cenas contam quantos chefes já foram vencidos, não qual: o 3º e o 4º podem ser qualquer um
+    dos 4 primeiros (Freeze Man, Cloud Man, Junk Man ou Burst Man).
+  - 3º Robot Master vencido: depois do monólogo e dos tiros de teste, antes de o Bass ir embora, a
+    música para, toca o som da primeira porta abrindo (mais baixo, como se fosse longe) e nesse
+    momento o Bass diz "Aí vem ele!". Ele vira para a esquerda e se abaixa (o quadro do Bass
+    agachado/danificado do jogo original, com as cores da arma, apoiado no chão como o Mega Man).
+    A porta da sala abre com a animação e o som dela, o Mega Man entra correndo (onde a porta é
+    mais alta que o chão, ele pula de lá e cai no chão; na sala do Cloud Man, onde há um buraco
+    entre a porta e a plataforma, ele sai da porta e pula o buraco até a plataforma) e a porta
+    fecha atrás dele, também com animação e som; ele para na frente do Bass e os dois conversam:
+    "Bass?! O que aconteceu?!" / "Como sou descuidado... Me sinto um idiota por quase ter sido
+    derrotado por esse monte de lixo..." / "Você está muito danificado!" / "Não é nada... Posso
+    cuidar disso sozinho..." / "Não seja teimoso! Dr. Light poderá consertá-lo!" / "Hmph... Faça
+    como quiser..." / "Aguente firme! Vamos para o laboratório!". Os balões apontam para quem
+    fala; o Mega Man fala com a voz dele, e o Bass agachado mexe a boca. A música volta, o Bass se
+    levanta e os dois vão embora no teletransporte; vem a tela de weapon get e, depois dela, a
+    cena do laboratório destruído com o Mega Man: "É você Mega Man? Bass enlouqueceu depois que
+    terminei seus reparos..." / "Bass...!? Não posso acreditar..." / Wily no monitor: "Acredite,
+    Mega Man. Bass e Treble são minhas criações! ... Agora, Bass e Treble estão usando as peças
+    aprimoradas criadas para você e Rush!". As peças do escudo/tiros que ainda estejam na tela
+    somem quando a cena começa.
+  - 4º Robot Master vencido: depois do monólogo, o Treble desce no teletransporte ao lado do Bass
+    e rosna (com as cores dele; a barra de energia da arma não muda mais de cor durante a cena).
+    A música para durante a conversa: "Hã?! O que foi, Treble?!", o texto "Treble
+    detecta uma transmissão." no meio do balão (sem ponta), "Uma transmissão do velho Wily?!",
+    "Então ele está no Robot Museum...", "Aposto que está preparando mais algum robô inútil!" e
+    "Vamos, Treble! Quero ver o que aquele velho está tramando!". O balão some, a música volta,
+    os dois vão embora, vem a tela de weapon get (e a de senha) e começa direto a fase do Robot
+    Museum (a cena do laboratório "Wily está atacando o Museu de Robôs!" não existe mais).
+  - Robot Museum: ao chegar na sala onde o Wily está com o Guts Man, os dois conversam (a música
+    já está parada, como no original): "Bass?! O que está fazendo aqui?!" / "Procurando mais poder,
+    velho!" / "Seu idiota! Já destruiu vários dos meus robôs!" / "Eles eram fracos demais!" /
+    "Chega! Você está arruinando meus planos!" / "Não me importo! Eu sou o mais forte e vou provar
+    isso!" / "Então vou lhe ensinar uma lição!" / "Heh! Pode tentar, velho!". O Wily fica no
+    quadro de fala dele e abre e fecha a boca (como na introdução); os balões ficam no meio da
+    sala, os do Wily sem ponta (como a fala do monitor no laboratório) e os do Bass apontando
+    para ele. Depois o Wily ri um pouco, fecha a cúpula e vai embora com o Guts Man, e a luta
+    começa normalmente. A conversa só acontece na primeira vez, como a cena original.
+  - Depois do museu: a cena do laboratório, que continua destruído, com o Mega Man ("Mega Man,
+    um desastre está acontecendo!..."), e no fim o Mega Man diz: "Bass destruiu os outros 4 robôs, então
+    provavelmente ele já deve estar indo atrás desses também!".
+  - 8º Robot Master vencido: sem cena do laboratório; depois da tela de weapon get vai direto
+    para o castelo do Wily.
+  - O encontro com o Mega Man danificado na fase do Shade Man foi removido (agora o encontro é
+    na sala do 3º chefe).
+  - Reenfrentar um chefe já vencido não repete as cenas.
+- Vida extra com o ícone de vida do Bass do Rockman & Forte (Megaman & Bass, SNES): o ícone das
+  vidas do menu de pausa de lá, copiado pixel por pixel da memória de vídeo do jogo, com as cores
+  passadas para a paleta do sprite do Bass deste jogo (laranjas nas barbatanas, cinzas na armadura,
+  o olho vermelho no marrom do olho; o fundo azul da caixa vira transparente):
+  - Na fase, o item de vida extra (1UP) é o ícone, parado (o 1UP original piscava trocando para
+    um segundo quadro feito de metades espelhadas, e o ícone não é simétrico). Ele usa a paleta do
+    próprio Bass, então muda de cor junto com ele conforme a arma equipada (como os 1UP do NES).
+  - No menu de pausa (2ª página), o ícone das vidas é o mesmo ícone.
+  - Na loja do Reggae, o ícone da vida extra na lista e a vida que cai até o Bass depois da
+    compra também são o ícone.
+- Loja do Reggae: o T.Jet e o T.Search da lista (que mostravam o Rush vermelho, deitado e a
+  cabeça) agora têm os mesmos ícones do menu de armas: a bolinha roxa no quadrado preto do T.Jet
+  e a cabeça roxa do Treble do T.Search, nas cores do menu (também o item que cai até o Bass
+  depois da compra).
+- Placas T.R.E.B.L.E. no lugar das placas R.U.S.H. (6 letras em vez de 4):
+  - Freeze Man: T. Cloud Man: R. Junk Man: E. Burst Man: B (nos mesmos lugares das placas antigas).
+  - Shade Man: L, no chão, bem no meio do quadro do Wily vestido de Drácula (a sala com o quadro,
+    antes do corredor do chefe).
+  - Slash Man: E, no chão, no meio do degrau mais alto da sala dos tubos com ovos de dinossauro (a sala
+    onde ficava a gaiola do Beat, que estava vazia na campanha do Bass, já que ele começa com o
+    Treble). Na fase do Turbo Man o 2º Truck Joe não solta mais letra nenhuma.
+  - As letras foram desenhadas no mesmo estilo das placas originais: as mesmas cores (as faixas
+    laranja, amarela, creme e branca), a mesma fonte e a mesma placa girando (de frente, de lado,
+    de costas e deitada).
+  - Menu de pausa (2ª página): o painel das placas foi aumentado e mostra as 6 letras lado a lado,
+    cada uma aparecendo quando é pega.
+  - O S.Adaptor só vem com as 6 letras. O Reggae na loja fala em "T, R, E, B, L e E".
+  - Senhas: as letras L e E (Slash) também ficam na senha. As senhas de versões anteriores
+    continuam valendo com os mesmos tanques; quem tinha o S.Adaptor fica com T, R, E, B e L e
+    precisa pegar o E da fase do Slash Man.
+- Final do jogo: nos créditos, quem anda em direção à tela na frente do castelo em chamas é o
+  Bass, com a sombra dele embaixo (no lugar do Mega Man). As 4 animações do original continuam:
+  olhos abertos com o sorriso, a boca aberta, e as duas com uma piscada nos 3 últimos passos.
+  As cores levam o mesmo brilho vermelho do fogo que o Mega Man levava.
+  Na apresentação do elenco, em cima da pedra no espaço (onde o original mostrava o Bass e o
+  Treble), aparecem o Mega Man parado na pose normal, só piscando (sem virar a cabeça), e o Rush
+  sentado (o sprite do Rush sentado do próprio jogo), com os nomes MEGA MAN e RUSH.
+  Logo depois da pedra o jogo vai direto para a tela final de agradecimento ("Obrigado por
+  jogar!"): saíram a última caminhada no fogo (com o "e CAPCOM e Toda Equipe"), a cena da
+  chegada à loja do Auto e a foto da família. O texto dessa última caminhada foi tirado da ROM;
+  o espaço ficou livre.
+  No rolo dos créditos, depois de "Agradecimentos", entram três páginas novas no mesmo estilo:
+  "Sprites Extras" (ANDREWHAGARTIST, CHAOTICPRINCE7, ACE_SPARK, GRIM e BARYLTDF),
+  "Agradecimento Especial" (HANSUNGKEE) e "Hack feita por" (Repliroid do Futuro (Gabriel
+  Calmon)); em inglês, "Hack made by". O resto dos créditos segue igual depois delas.
+  Na tela de agradecimento o logo da CAPCOM fica no meio da tela, na mesma posição da tela da
+  CAPCOM do começo do jogo (antes ficava em cima do texto "Obrigado por jogar!" e, numa versão
+  anterior do patch, embaixo, fora do centro).
+
+- Torre do Wily 1, a luta contra o Mega Man (no lugar da luta contra o Bass do original):
+  - O Mega Man chega no raio de teletransporte dele, com o som dele, e usa os quadros dele em toda a
+    cena: parado, correndo, pulando, atirando no chão e no ar, carregando o buster (piscando nas
+    cores de carga dele, as do Mega Man 7 original, com as faíscas) e tomando dano. A luta segue o comportamento do
+    Bass chefe.
+  - Antes da luta: Mega Man: "Bass! Por que nos traiu?!" / Bass: "Vocês foram ingênuos demais!" /
+    Mega Man: "Dr. Light confiava em você!" / Bass: "Chega de conversa! Vamos lutar!" / Mega Man:
+    "Se é isso que quer... prepare-se!". Os balões apontam para quem fala, cada um com a sua voz,
+    e o Mega Man mexe a boca enquanto fala.
+  - Tiros: o tiro normal é a bolinha amarela do buster dele, saindo da ponta do buster; o tiro
+    carregado é o tiro de carga cheia do Mega Man 7 igual ao do jogo original (a bola azul-clara
+    com o anel): a saída (3 quadros) e depois os 3 quadros dele se repetindo, cada um com os seus
+    próprios tiles, com o som de tiro carregado. Teletransporte, pouso e dano também têm os sons do Mega Man.
+  - Derrotado: ele cai, pousa, se ajoelha, abaixa e senta no chão (os mesmos quadros do encontro
+    da fase introdutória) e conversa sentado, mexendo a boca: Mega Man: "Ugh... Isso ainda não
+    acabou, Bass!" / Bass: "Estarei esperando pela revanche!". As explosões param quando a conversa começa e as faíscas de dano
+    (a eletricidade de robô danificado) ficam em cima dele, ajoelhado e sentado, enquanto fala. No fim ele se
+    levanta e vai embora no raio de teletransporte.
+  - Textos: as falas são divididas em páginas de até 3 linhas, o tamanho do balão das fases do
+    Wily. A seta que pisca esperando o botão fica sempre embaixo, no meio do balão, como nos
+    balões do jogo original (antes, na última página de cada fala, ela ficava ao lado do texto e
+    às vezes até fora do balão). Vale para as falas do Wily 1, do Wily 2 e da cena final.
+
+- Torre do Wily 2, a luta contra o Mega Man e o Rush (no lugar da luta contra o Bass e o Treble):
+  - O Mega Man chega no raio dele e usa os quadros dele (os do Mega Man 7 original) até a fusão.
+    Antes: Bass: "Voltou para mais uma derrota?!" / Mega Man: "Desta vez será diferente, Bass!".
+  - A fusão: o Rush desce no raio dele na frente do Mega Man e late três vezes; o Mega Man
+    levanta o braço (como no jogo original) e fica no chão; o Rush pula por cima dele, vira o
+    adaptador (os quadros do Rush do Mega Man 7) e cai em cima dele. Nessa hora entra a fusão do
+    Bass chefe (o quadrado girando, o raio, a tela clareando e as silhuetas) em volta do Mega Man,
+    toda em tons de fogo (vermelho e laranja), e ele aparece como Super Mega Man (os quadros e as
+    cores do Super Adaptor do jogo original). No fim da transformação ele fica na pose da
+    transformação (de frente para a tela, com a mão para cima) com a chama de fogo em volta dele,
+    tremulando (como a chama do Super Bass no original); quando a chama acaba ele fica em pé (e
+    mexe a boca quando fala). A fusão do Bass com o Treble
+    e os balões continuam com as cores de sempre.
+  - Se o Bass tem as 6 letras T.R.E.B.L.E (e ainda não está fundido): Bass: "Interessante!
+    Também tenho uma coisa parecida!!" e o Bass faz a fusão dele com o Treble (a mesma do T.BOOST).
+    Sem as letras essa fala e essa fusão não acontecem. Quando o Bass fundido pousa no chão, ele
+    fica parado (não repete mais a animação da transformação) e mexe a boca quando fala.
+  - Depois: Mega Man: "Vamos acabar com isso, Bass!" / Bass: "Me mostre do que é capaz!"; a barra
+    de vida enche e a luta começa. Fundido com o Rush, ele fala abrindo a boca
+    como o Mega Man normal (a boca e o queixo do quadro de fala dele, no rosto do Super Mega Man).
+  - Na luta ele segue os movimentos do Bass chefe com os quadros do Super Mega Man: parado
+    (desde o primeiro quadro da luta, sem aparecer sem a armadura), pulando (subindo e descendo),
+    atirando no chão e no ar (a bolinha do buster, saindo do buster; no ar, com o quadro de pular e
+    atirar do Super Mega Man, que antes usava o de atirar parado no chão) e o voo rasante pela sala com
+    o quadro do jato dele e a propulsão do Super Adaptor (as baforadas de fogo atrás dos pés, as
+    do jogo original) (a bola de fogo do Super Bass, que ficava embaralhada, não aparece). O tiro
+    carregado teleguiado é o soco-foguete do Super Adaptor (o punho com o fogo atrás, os quadros do
+    jogo original), virado para o Bass. O tiro carregado do buster (que ele também dispara às
+    vezes) é azul como no original (antes saía cinza com as cores do Super Adaptor). Os sons são os do Mega Man. Os brilhos dele na luta também
+    ficaram em tons de fogo.
+  - A pose de poder durante a luta (a da chama roxa em volta do Super Bass): o quadro 35 do Super
+    Mega Man (escolhido na folha de quadros: os dois punhos para cima), com a chama em volta dele
+    em vermelho e laranja,
+    tremulando como a do original. Ele fica com as cores dele na frente da chama e o meio da chama
+    é claro (creme, depois laranja e vermelho nas pontas), então os dois braços aparecem, também
+    o laranja do braço esticado (antes ele sumia no amarelo da chama); a chama fica
+    centralizada nele e o meio dela, onde ficava o corpo do Super Bass, também é preenchido
+    (antes ficava um buraco retangular atrás dele).
+  - Derrotado: ele cai, pousa, se ajoelha e senta (os quadros do Super Mega Man caído, do próprio
+    jogo, com um quadro novo de boca fechada), com as faíscas de dano em cima dele, e fala mexendo a
+    boca: Mega Man: "Ugh... Não acredito..." / Bass: "O poderoso Mega Man... derrotado! Admita! Você
+    não é páreo para mim! E eu acabei de te provar isso!" / Mega Man: "Você... pode ter me
+    vencido... Mas isso não termina aqui!" / Bass: "Faça o que quiser! Você não é mais necessário!
+    Agora tenho outros assuntos a tratar.". Ele se levanta e se teletransporta.
+  - Depois que ele some: Bass: "Mega Man foi mais fácil do que eu esperava!" / Bass: "Mas... por que
+    essa vitória não me satisfaz?!" / Bass: "Ainda falta acertar as contas com Wily!" / Bass:
+    "Quando derrotar aquele velho, tudo estará terminado!" e a fase segue normalmente, com a música
+    da fase de volta (antes ela não voltava a tocar depois do monólogo: o jogo só retoma a música
+    com o Bass já no estado normal, e o fim do monólogo acontecia no mesmo quadro em que ele voltava
+    a esse estado).
+
+- A cena final, depois do Wily Capsule (no lugar da cena em que o Bass e o Treble salvam o Wily):
+  - O Wily cai do Capsule e toca a música de vitória; quando ela termina, ele se ajoelha
+    implorando por perdão: Wily: "P-Por favor, Bass! Me perdoe!" / Bass: "Suas desculpas não
+    vão salvá-lo, velho!".
+  - O Bass começa a carregar o Buster (aponta o braço e brilha como no tiro carregado) e o Wily
+    faz a animação de medo: Wily: "N-Não! Eu sou seu criador! Robôs não podem machucar humanos
+    Bass, não faça isso!!" / Bass: "Isso acaba agora!".
+    O Wily vai para trás aos poucos com o medo, só um pouco (não vai mais para o canto da tela).
+  - Primeiro o Rush desce no raio dele em cima do Wily e pousa no chão, late para o Bass e logo
+    vai embora no raio dele levando o Wily (o Wily pisca e some junto).
+  - Depois o Mega Man desce no raio dele (o do jogo original) e pousa no chão: Mega Man: "Pare,
+    Bass! Não faça isso!" / Bass: "Saia do meu caminho!" / Mega Man: "Wily precisa responder por
+    seus crimes!". O Mega Man só abre e fecha a boca enquanto fala (os quadros dele do jogo
+    original, sem balançar a cabeça). O Bass para de carregar: "Faça como quiser! Já provei que sou
+    o mais forte mesmo!". Em seguida o Mega Man se teletransporta. Bass: "Hmph! Até nunca, velho!".
+  - O lugar desaba (a mesma destruição do jogo original): o Bass fecha os olhos e fica parado (não
+    pisca mais), depois se teletransporta, a tela fica branca e entra o ending.
+
+- Modo Versus no menu: o título agora tem INICIAR JOGO, PASSWORD, VERSUS e SOM (o -STEREO- /
+  -MONO- fica ao lado do SOM; o menu subiu uma linha para não encostar no logo da CAPCOM). VERSUS
+  leva direto ao modo de 2 jogadores, sem precisar da senha 1415 5585 7823 6251 + L + R (a senha
+  continua funcionando). Depois que os dois escolhem o personagem, a caixa fica reta e mostra a
+  escolha de ARENA e MÚSICA; qualquer um dos dois controles mexe: cima/baixo troca a linha,
+  esquerda/direita troca a opção e START começa a luta.
+  - B (em qualquer controle) na escolha de personagem ou no menu de ARENA / MÚSICA volta ao menu
+    do título: a tela escurece, a música some junto (o menu do título fica mudo, como quando se
+    pula a abertura; antes voltava a música da abertura) e o cursor já fica no VERSUS. (Depois que
+    a luta começa a ser carregada, o B não volta mais.)
+  - Na escolha de personagem os dois ficam na pose de parado do jogo, piscando: o Bass como no
+    jogo deste patch e o Mega Man com os quadros e o ritmo de piscar do Mega Man 7 original
+    (antes o Mega Man ficava virando a cabeça, a animação do Bass do versus original). Escolhido,
+    cada um sai no seu raio de teletransporte e com o seu som (antes os sons estavam trocados).
+  - Proto Man jogável no Versus, como terceiro lutador: na escolha de personagem, esquerda/direita
+    em cada pedestal passa por Bass -> Mega Man -> Proto Man (e volta). Ele usa a jogabilidade do
+    Mega Man (andar, pulo, slide, tiros, as 8 armas), com os sprites e as cores dele:
+    - Os movimentos básicos são os sprites originais do Proto Man na luta contra ele no Mega Man
+      7: parado, pulo (subindo e caindo), pulo atirando (para frente), tiro, dano e o dash com o
+      escudo (no lugar do slide). A caminhada e a caminhada atirando vêm do Mega Man 2: The Power
+      Fighters (a folha que Gabriel Calmon enviou), alinhados pela cabeça como na animação
+      original. O desenho da folha é mais largo que o do Mega Man 7 (o capacete tem uns 28 pixels
+      de largura, no MM7 23, com a mesma altura): cada quadro perdeu uma coluna em cada cinco,
+      contadas a partir da frente do capacete, então a cabeça perde as mesmas colunas em todos os
+      quadros e a animação não treme; onde a coluna tirada era o contorno, o contorno passa para a
+      coluna ao lado. As cores são as do Proto Man do MM7: a peça verde do lado do capacete fica
+      cinza, e o branco do corpo e dos braços vira o cinza claro (o branco fica no capacete, como
+      no MM7). O raio de teletransporte dele é vermelho.
+    - Carregando o buster parado, ele faz a pose da luta do MM7 (escudo na frente, o punho para
+      cima com a energia).
+    - Tiros da luta do MM7: a bolinha amarela com o som do tiro dele, e o tiro carregado verde
+      com o rastro de anéis (5 anéis carregado, 2 no meio carregado). O som do tiro carregado é o
+      mesmo da luta.
+    - O Proto Shield fica sempre com ele, como o do Mega Man no MM7: na frente quando está parado,
+      carregando ou no dash, e nas costas andando, pulando, atirando e levando dano. Nas costas
+      ele fica igual ao P.Shield equipado no Mega Man: o desenho do escudo nas costas do Mega Man
+      (o oval escuro de borda vermelha), sempre inteiro, colado nas costas dele e quase todo
+      escondido atrás do corpo: em cada linha do desenho a borda passa só 1 pixel das costas
+      (fica só a borda vermelha e um pouco do escuro), e a altura acompanha a cabeça dele em cada
+      quadro. Na corrida ele vira de
+      lado num passo (a borda clara aparece) e fica de costas no outro, como no Mega Man; o
+      desenho de lado em linha fina e o oval grande do Mega Man não são usados (no Proto Man
+      ficavam como uma lâmina branca e um arco por cima das costas). O escudo que vinha desenhado
+      nos sprites da luta e do Power Fighters foi tirado. Andando e andando atirando ele fica no
+      mesmo lugar, então atirar no meio da corrida não faz o escudo pular. Na
+      frente ele rebate os tiros normais e meio carregados que vêm de frente (o carregado e as
+      armas passam); por trás ele leva dano normalmente.
+    - As poses das armas (Slash Claw no chão e no ar, e os arremessos e braços para cima do Junk
+      Shield, Scorch Wheel e Wild Coil) foram montadas com o corpo do próprio Proto Man e os
+      braços da pose do Mega Man. Nelas o escudo fica nas costas, com o mesmo desenho e o mesmo
+      encaixe das costas da caminhada, colado nas costas (antes o escudo sumia durante o golpe e
+      voltava depois). O Slash Claw foi refeito: agora são as 4 poses do Slash Claw do Mega Man (braço
+      para a frente, recolhido, golpe e braço para trás), no chão e no ar, com o corpo do Proto
+      Man (antes, no chão, era uma pose agachada do Power Fighters e, no ar, a pose de queda).
+    - Com uma arma escolhida ele fica com as cores da arma, como o Mega Man.
+    - Proto Man contra Proto Man: o do P2 fica azul, a cor secundária dele: o vermelho vira azul
+      nos mesmos tons e o cinza continua igual. Carregando o tiro, os brilhos avermelhados da carga
+      também ficam azulados no P2.
+  - Arenas: WILY MACHINE (a sala original do versus) e as salas dos 8 chefes: FREEZE MAN, JUNK
+    MAN, BURST MAN, CLOUD MAN, SPRING MAN, SLASH MAN, SHADE MAN e TURBO MAN, com os lutadores
+    descendo no chão de cada sala.
+  - Músicas: BOSS 1 (a dos 8 chefes), BOSS 2 e WILY FINAL. (A música não usada da sound test
+    não existe na ROM final, por isso ficou de fora.)
+  - A escolha fica guardada para a próxima luta (até voltar ao título). As rodadas e a volta à
+    escolha de personagem são as do original.
+  - Os dois lutadores usam a jogabilidade do jogo (não mais a do versus original): o Mega Man é
+    o do Mega Man 7 original (andar, pulo, slide, o tiro do buster saindo do buster dele, o tiro
+    carregado, os sons dele) e o Bass é o deste patch (dash, os tiros e os tiros carregados
+    roxos, os sons dele). Cada um tem o buster e as 8 armas, trocadas com L / R como no jogo
+    (como no jogo, a troca espera o tiro da arma sair da tela), com os desenhos, as poses e os
+    sons de cada personagem.
+  - No começo de cada round aparece um INICIAR (READY em inglês) próprio do versus: as letras do
+    menu do título, prata com contorno preto, no meio da tela, entrando uma a uma e depois
+    piscando. O INICIAR dos lutadores não aparece mais (antes às vezes o do outro personagem
+    aparecia por um quadro, e as letras ainda sem desenho apareciam como blocos).
+  - Rounds vencidos: cada round ganho põe um Met no canto de baixo da tela do lado de quem
+    venceu (o P1 no canto inferior esquerdo, o P2 no inferior direito; o segundo Met fica ao lado
+    do primeiro, para dentro). O Met é o do versus original, com o rosto preto e os olhos brancos
+    (as letras e o Met usam uma paleta que fica fora da soma de cores do SNES; com a outra, nas
+    arenas que somam cores no chão, o preto e os olhos ficavam transparentes). No fim da luta aparece o
+    vencedor no meio da tela: BASS VENCEU, MEGAMAN VENCEU ou PROTOMAN VENCEU (em inglês, WINS),
+    com o nome na cor do personagem (Bass roxo, Mega Man azul, Proto Man vermelho) e VENCEU/WINS
+    em prata, tudo com contorno preto. (Antes, fora da arena WILY MACHINE, nem o Met nem o texto
+    apareciam, porque os gráficos só existiam naquela sala.)
+  - O P2 não some mais no primeiro passo (o passo curto antes de andar usa o mesmo estado do
+    INICIAR, e ele deixava de ser desenhado nesses quadros).
+  - Dano: tiro normal 1, meia carga 2, carga cheia 4; Thunder Bolt e Scorch Wheel 3, as outras
+    armas 2. Quem é atingido recua, pisca e faz o som de dano do jogo; sem vida, a explosão do
+    jogo e a vitória do outro.
+  - Mesmo personagem dos dois lados: o P2 tem outra cor (Mega Man vermelho, Bass roxo, Proto Man
+    azul). Com uma
+    arma escolhida os dois ficam com a cor da arma, como no jogo.
+  - Barras: a vida e a energia da arma do P1 à esquerda; a vida e a energia da arma do P2 à
+    direita, espelhadas (a do P2 fica ao lado da vida dele, com a cor da arma dele). Como no jogo,
+    a barra da arma só aparece com uma arma escolhida e some no buster.
+  - Cada arena carrega os gráficos, as cores e os objetos da sala do chefe (portas, efeitos de
+    fundo, as cores do Shade Man, o painel de luzes da sala do Spring Man).
+  - Arena do Cloud Man: a câmera fica no meio da plataforma (antes ficava no canto esquerdo da
+    sala, com o pilar e o buraco na tela, e dava para cair); a plataforma ocupa a tela toda e
+    ninguém chega às bordas. As nuvens do fundo andam como no jogo (o efeito delas não era
+    iniciado e elas ficavam paradas).
+
+Créditos:
+- Sprites extras do Bass (escada, tiro na escada, dano, arremessos, as poses do Scorch Wheel/
+  Junk Shield/Wild Coil, os tiros carregados fraco e cheio): edição de ChaoticPrince7,
+  "Bass MM7 Expansion Sprites Sheet" (Sprites INC), sobre desenhos originais da Capcom.
+- Slash Claw do Bass: quadros não usados do Mega Man 7 (Capcom), encontrados e extraídos por
+  ACE_Spark ("Bass / Forte Unused Frames").
+- Dash do Bass usado no slide: sprites do Bass de "Rockman & Forte" (SNES,
+  Capcom), extraídos por Grim (spritedatabase.net).
+- Pose de dano e morte do Bass: de uma folha de sprites do Bass no estilo do Mega Man 7 enviada
+  por Gabriel Calmon (o autor não aparece na folha).
+- Voo do Super Bass: de uma folha de sprites do Super Bass enviada por Gabriel Calmon (o autor
+  não aparece na folha); o corpo é o quadro do Super Bass chefe do próprio jogo.
+- Sprites do Treble e do Super Bass da fusão: tirados do próprio jogo (conjuntos 51 e 4A,
+  vistos pelo visualizador de objetos escondido do Mega Man 7) e da luta do Wily 2.
+- Treble do T.Coil/T.Jet/T.Search e o ícone do T.Search: de uma folha de sprites do Treble para os
+  modos enviada por Gabriel Calmon (o autor não aparece na folha); a terra e a poeira da busca são
+  as do próprio Rush, recoloridas.
+- Arte do Bass da tela de weapon get: a arte do Bass do Mega Man & Bass (Capcom), tirada da ROM
+  daquele jogo e pintada com as cores das armas do Mega Man 7 (ideia de Gabriel Calmon).
+- Ícone de vida do Bass: do Rockman & Forte (Capcom), extraído da ROM enviada por Gabriel Calmon e
+  recolorido com a paleta do sprite do Bass.
+- Ícone do T.Search: o ícone do Treble (G.BOOST) do Rockman & Forte (Capcom), extraído da ROM
+  enviada por Gabriel Calmon.
+- Ícone do Treble no lugar do Beat (menu e loja): o do T.Search (Rockman & Forte), escolha de
+  Gabriel Calmon. Treble do resgate
+  do buraco: o quadro do Treble da fusão do próprio jogo (boca aberta, como no sprite enviado por
+  Gabriel Calmon) e o mesmo com a boca fechada; a chama é a do T.Jet.
+- Coreografia, sons e efeitos da fusão: os da própria luta do Wily 2 (rotinas D8:8B00/8BAF).
+- Bass agachado da cena do 3º chefe: o quadro do Bass danificado do próprio jogo (Capcom), da
+  ROM original.
+- Bass andando no final do jogo: sprites de AndrewHagArtist (agradecimento especial a
+  hansungkee), enviados por Gabriel Calmon.
+- Reggae da loja: "Reggae (MM7 style)" de BarylTDF (sprites em domínio público, usados com o
+  crédito ao autor), enviados por Gabriel Calmon.
+- Proto Man caído (cena depois da última luta) e caminhada do Proto Man no Versus: da folha
+  "Protoman -- Mega Man 2: The Power Fighters" (Capcom), extraída por Solink, enviada por Gabriel
+  Calmon.
+- Metall da loja e retrato do Reggae na parede: gráficos do próprio jogo (Capcom), o Metall da
+  fase de abertura e o Reggae da tela de senha errada.
