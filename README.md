@@ -6,6 +6,14 @@ jogado em **português (BR)** ou em **inglês** (escolha ao ligar).
 
 Hack feita por **Repliroid do Futuro (Gabriel Calmon)**.
 
+## Download
+
+- [Mega Man 7 EX Edition.bps](https://github.com/VrepliroidV/Megaman7-EX-Edition/raw/main/Mega%20Man%207%20EX%20Edition.bps) (recomendado, 410 KB)
+- [Mega Man 7 EX Edition.ips](https://github.com/VrepliroidV/Megaman7-EX-Edition/raw/main/Mega%20Man%207%20EX%20Edition.ips) (4,7 MB)
+- [LEIAME - Mega Man 7 EX Edition.txt](https://github.com/VrepliroidV/Megaman7-EX-Edition/raw/main/LEIAME%20-%20Mega%20Man%207%20EX%20Edition.txt)
+
+Os dois patches dão a mesma ROM; use só um deles.
+
 ## Como aplicar
 
 | | |
@@ -14,7 +22,7 @@ Hack feita por **Repliroid do Futuro (Gabriel Calmon)**.
 | CRC32 da ROM original | `2D947536` |
 | CRC32 depois do patch | `F1D65064` (a ROM fica com 6 MB) |
 
-1. Baixe o patch `Mega Man 7 EX Edition.bps` (recomendado) ou o `.ips`.
+1. Baixe o patch `Mega Man 7 EX Edition.bps` (recomendado) ou o `Mega Man 7 EX Edition.ips`.
 2. Aplique na ROM original com um programa de patch, como o Floating IPS (Flips), o beat ou o
    ROM Patcher JS (no navegador).
 3. Use sempre a ROM original sem modificações, nunca uma que já recebeu uma versão anterior do
