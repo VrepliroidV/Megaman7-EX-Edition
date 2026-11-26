@@ -30,6 +30,16 @@ Os dois patches dão a mesma ROM; use só um deles.
 
 A ROM não está incluída neste repositório.
 
+## Termos de uso
+
+- Esta hack é distribuída para uso pessoal, como patch BPS / IPS.
+- **Não é permitido modificá-la**, distribuir versões alteradas nem reaproveitar o conteúdo dela
+  (código, gráficos, sons, telas, textos) em outros projetos **sem permissão** do autor,
+  Repliroid do Futuro.
+- **Não é permitido vender**, de nenhuma forma (ROMs, cartuchos repro, coletâneas).
+- Para divulgar, compartilhe o link desta página em vez de reenviar o patch.
+- Quer fazer algo baseado nela? Peça permissão antes.
+
 ## O que tem
 
 - **Escolha de idioma** ao ligar o jogo: English ou Português (BR). Em inglês, todos os textos
@@ -60,3 +70,13 @@ A lista completa e detalhada de mudanças está no
   fã, gratuito e sem fins lucrativos.
 
 Os créditos completos estão no LEIAME.
+
+## Terms of use (English)
+
+- This hack is shared for personal use, as a BPS / IPS patch.
+- **Do not modify it**, redistribute modified versions or reuse its content (code, graphics,
+  sounds, screens, texts) in other projects **without permission** from the author, Repliroid do
+  Futuro.
+- **Do not sell it** in any form (ROMs, repro carts, bundles).
+- To share it, please link to this page instead of re-uploading the patch.
+- Want to make something based on it? Ask first.

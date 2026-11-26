@@ -5,6 +5,16 @@ A ROM fica com 6 MB depois do patch, com o jogo em português ou em inglês (esc
 Use sempre a ROM original sem modificações, não uma que já recebeu uma versão anterior do patch.
 CRC32 da ROM depois do patch: F1D65064.
 
+Termos de uso:
+- Esta hack é distribuída para uso pessoal, como patch BPS / IPS.
+- Não é permitido modificá-la, distribuir versões alteradas nem reaproveitar o conteúdo dela
+  (código, gráficos, sons, telas, textos) em outros projetos sem permissão do autor, Repliroid
+  do Futuro.
+- Não é permitido vender, de nenhuma forma (ROMs, cartuchos repro, coletâneas).
+- Para divulgar, compartilhe o link da página oficial em vez de reenviar o patch:
+  https://github.com/VrepliroidV/Megaman7-EX-Edition
+- Quer fazer algo baseado nela? Peça permissão antes.
+
 O que muda:
 - Escolha de idioma: ao ligar o jogo, antes de tudo, vem a tela SELECT LANGUAGE / ESCOLHA O
   IDIOMA com ENGLISH e PORTUGUÊS (BR): o direcional troca a opção, START, A ou B confirmam e a
