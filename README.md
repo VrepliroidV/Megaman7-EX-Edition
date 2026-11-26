@@ -24,7 +24,7 @@ Os dois patches dão a mesma ROM; use só um deles.
 |---|---|
 | ROM necessária | Mega Man 7 (USA), original, sem header, 2 MB |
 | CRC32 da ROM original | `2D947536` |
-| CRC32 depois do patch | `F1D65064` (a ROM fica com 6 MB) |
+| CRC32 depois do patch | `F89272EF` (a ROM fica com 6 MB) |
 
 1. Baixe o patch `Mega Man 7 EX Edition.bps` (recomendado) ou o `Mega Man 7 EX Edition.ips`.
 2. Aplique na ROM original com um programa de patch, como o Floating IPS (Flips), o beat ou o

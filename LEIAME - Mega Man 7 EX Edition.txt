@@ -3,7 +3,7 @@ Mega Man 7 EX Edition
 Aplicar em: Mega Man 7 (USA) original, 2 MB, sem header, CRC32 2D947536.
 A ROM fica com 6 MB depois do patch, com o jogo em português ou em inglês (escolha ao ligar).
 Use sempre a ROM original sem modificações, não uma que já recebeu uma versão anterior do patch.
-CRC32 da ROM depois do patch: F1D65064.
+CRC32 da ROM depois do patch: F89272EF.
 
 Termos de uso:
 - Esta hack é distribuída para uso pessoal, como patch BPS / IPS.
@@ -421,10 +421,7 @@ O que muda:
   armas não pintam); agora vai para o cinza escuro da armadura e pega a cor de cada arma, como nas
   outras poses. A perna de trás (a mais escura) ainda tinha uma mancha preta em 3 quadros (a
   sombra da perna no Rockman & Forte): agora é o cinza escuro da armadura com o contorno preto,
-  na forma normal e com todas as armas. A aleta no slide tinha só dois tons (o mais claro e o do
-  meio), que no Freeze Cracker e no Slash Claw são quase iguais: a aleta parecia uma cor só. Agora
-  ela tem os três tons da aleta do Bass parado (o contorno no tom mais escuro, uma faixa no tom do
-  meio junto dele e o resto no mais claro), na forma normal e com todas as armas. O rosto no slide (deitado, abaixando e se levantando) tem as mesmas cores do rosto
+  na forma normal e com todas as armas. O rosto no slide (deitado, abaixando e se levantando) tem as mesmas cores do rosto
   do Bass parado (antes a pele ficava num marrom bem mais escuro), com todas as armas. Os olhos
   (que no Rockman & Forte são vermelhos e aqui ficavam marrons) são cinza escuro, o mesmo cinza com
   todas as armas, como o olho do Bass na tela de weapon get; e os dois pixels pretos em volta do
