@@ -3,7 +3,7 @@ Mega Man 7 EX Edition
 Aplicar em: Mega Man 7 (USA) original, 2 MB, sem header, CRC32 2D947536.
 A ROM fica com 6 MB depois do patch, com o jogo em português ou em inglês (escolha ao ligar).
 Use sempre a ROM original sem modificações, não uma que já recebeu uma versão anterior do patch.
-CRC32 da ROM depois do patch: EBD6A561.
+CRC32 da ROM depois do patch: 19F05C27.
 
 Termos de uso:
 - Esta hack é distribuída para uso pessoal, como patch BPS / IPS.
