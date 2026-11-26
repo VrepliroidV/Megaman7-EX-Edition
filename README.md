@@ -14,7 +14,7 @@ Hack feita por **Repliroid do Futuro (Gabriel Calmon)**.
 | CRC32 da ROM original | `2D947536` |
 | CRC32 depois do patch | `F1D65064` (a ROM fica com 6 MB) |
 
-1. Baixe o patch `Mega Man 7 PT-BR - Bass Jogavel.bps` (recomendado) ou o `.ips`.
+1. Baixe o patch `Mega Man 7 EX Edition.bps` (recomendado) ou o `.ips`.
 2. Aplique na ROM original com um programa de patch, como o Floating IPS (Flips), o beat ou o
    ROM Patcher JS (no navegador).
 3. Use sempre a ROM original sem modificações, nunca uma que já recebeu uma versão anterior do
@@ -38,7 +38,7 @@ A ROM não está incluída neste repositório.
   terceiro lutador.
 
 A lista completa e detalhada de mudanças está no
-[LEIAME - Bass Jogavel.txt](LEIAME%20-%20Bass%20Jogavel.txt).
+[LEIAME - Mega Man 7 EX Edition.txt](LEIAME%20-%20Mega%20Man%207%20EX%20Edition.txt).
 
 ## Créditos
 
